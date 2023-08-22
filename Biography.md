@@ -14,4 +14,11 @@
 <li>Studio Ghibli films</li>
 <li>The Legend of Zelda games (I had a great time with the newest one, Tears of the Kingdom, this summer.</li>
 <li>Spending time with my friends, especially playing Tabletop RPG games with them (like D&D)</li>
+<li>Trying new things</li>
+</ul>
+<h2>Things I Don't Like Very Much</h2>
+<ul>
+<li>Going to events where I'm going to have to make first impressions for people</li>
+<li>Flying insects (I'm actually phobic of them!)</li>
+<li>Sending emails</li>
 </ul>
