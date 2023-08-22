@@ -5,6 +5,7 @@
 <li>I'm majoring in Media Production, with a minor in Communications.</li>
 <li>I am an aspiring audio engineer. I love mixing and production!</li>
 <li>I have two sisters and a brother, all are younger than me.</li>
+<li>I have lived in Cincinnati, Manhattan, and Galacia (province in Spain)</li>
 <li>My mom is from Spain and my dad is from here in Cincinnati!</li>
 </ul>
 <h2>Things I Love</h2>
