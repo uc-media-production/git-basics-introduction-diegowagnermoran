@@ -25,5 +25,5 @@
 </ul>
 
 <h2>A Picture of Myself</h2>
-<p>Here is a picture I sent on of my friends after a long work day at a dance competition. I ended up working another 3 harrowing hours after this was taken. As much as I complained about it, I actually had a lot of fun and am so happy I got to do it.</p>
+<p>Here is a picture I sent to one of my friends after a long work day at a dance competition. I ended up working another 3 harrowing hours after this was taken. As much as I complained about it, I actually had a lot of fun and am so happy I got to do it.</p>
 <img src="Me_at_work_lol.JPG" alt="A selfie I took at work while complaining about the length of the shift">
